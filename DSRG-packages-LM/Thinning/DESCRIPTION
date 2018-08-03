@@ -1,0 +1,10 @@
+Package: Thinning
+Title: Generating arrivals from a NHPP using Thinning
+Version: 0.0.0.1
+Authors@R: person("Lucy", "Morgan", email = "l.e.morgan@lancaster.ac.uk", role = c("aut","cre"))
+Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+Description: Generating arrivals from a NHPP using Thinning.
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
