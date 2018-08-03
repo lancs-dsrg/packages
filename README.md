@@ -5,9 +5,15 @@
 devtools::document()
 ```
 
+## Creating the package
+```R
+devtools::create()
+```
+
 ## Building the package
 ```R
 devtools::build()
+
 ```
 
 ### Cheats in RStudio
